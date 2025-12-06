@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "おちゃめ機能",
+  "base_artist": "タカオカミズキ",
+  "createdAt": "2025-12-06T14:04:02.082271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "Lon",
+      "has_synced": true,
+      "path": "select/01_おちゃめ機能_Lon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "ろん",
+      "has_synced": false,
+      "path": "select/02_おちゃめ機能_ろん.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "ゴジマジP",
+      "has_synced": true,
+      "path": "select/03_おちゃめ機能_ゴジマジP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "gojimaji P feat. Kasane, Teto",
+      "has_synced": true,
+      "path": "select/04_おちゃめ機能_gojimaji_P_feat._Kasane,_Teto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おちゃめ機能 (full version)",
+      "artist": "ゴジマジP feat. 重音テト",
+      "has_synced": true,
+      "path": "select/05_おちゃめ機能_(full_version)_ゴジマジP_feat._重音テト.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おちゃめ機能 (full version)",
+      "artist": "ゴジマジP",
+      "has_synced": true,
+      "path": "select/06_おちゃめ機能_(full_version)_ゴジマジP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おちゃめ機能 (full version)",
+      "artist": "gojimaji P feat. Kasane, Teto",
+      "has_synced": true,
+      "path": "select/07_おちゃめ機能_(full_version)_gojimaji_P_feat._Kasane,_Teto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "ろん",
+      "has_synced": true,
+      "path": "select/08_おちゃめ機能_ろん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おちゃめ機能 - Ochame Kino",
+      "artist": "Ron",
+      "has_synced": true,
+      "path": "select/09_おちゃめ機能_-_Ochame_Kino_Ron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おちゃめ機能 feat.重音テト",
+      "artist": "ゴジマジP",
+      "has_synced": true,
+      "path": "select/10_おちゃめ機能_feat.重音テト_ゴジマジP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おちゃめ機能 -Full ver.-",
+      "artist": "ゴジマジP",
+      "has_synced": true,
+      "path": "select/11_おちゃめ機能_-Full_ver.-_ゴジマジP.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "LamazeP",
+      "has_synced": true,
+      "path": "select/12_おちゃめ機能_LamazeP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "gojimajiP, Kasane Teto",
+      "has_synced": true,
+      "path": "select/13_おちゃめ機能_gojimajiP,_Kasane_Teto.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "おちゃめ機能 -Full Ver.-",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/14_おちゃめ機能_-Full_Ver.-_VA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "おちゃめ機能",
+      "artist": "gojimajiP",
+      "has_synced": true,
+      "path": "select/15_おちゃめ機能_gojimajiP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おちゃめ機能 (feat. 重音テト) [Cover]",
+      "artist": "タカオカミズキ",
+      "has_synced": false,
+      "path": "select/pl_01_おちゃめ機能_(feat._重音テト)_[Cover]_タカオカミズキ.txt"
+    }
+  ]
+}
